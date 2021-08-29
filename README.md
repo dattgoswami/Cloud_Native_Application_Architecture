@@ -1,6 +1,6 @@
 # Cloud_Native_Application_Architecture
 
-[Project 1 - TechTrends](https://github.com/dattgoswami/nd064_course_1)
+[Project 1 - TechTrends](https://github.com/dattgoswami/nd064_course_1) - in progress
 
 [Project 2 - Refactoring UdaConnect](https://github.com/dattgoswami/nd064-c2-message-passing-projects-starter)
 
